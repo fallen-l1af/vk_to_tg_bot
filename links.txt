@@ -1,0 +1,4 @@
+https://github.com/Whiletruedoend/Vk-to-telegram-transfer-bot
+https://habr.com/ru/articles/677258/
+https://github.com/blyamur/VK-Video-Download/blob/main/vk_video_download.py
+https://www.gyan.dev/ffmpeg/builds/
